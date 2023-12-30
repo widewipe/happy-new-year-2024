@@ -58,10 +58,9 @@
 @media (max-width: 450px) {
     .text {
         font-size: 20px;
-        /* margin-top: -200px; */
     }
 
     .main {
-        height: 120dvh;
+        height: 135dvh;
     }
 }
